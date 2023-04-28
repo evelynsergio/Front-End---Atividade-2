@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: wheat;
+  margin: 2%;
+  font-size: 40px;
+  font-family: system-ui;
+  text-align: center;
+}
+  
+h2 {
+  color: wheat;
+  margin: 2%;
+  font-size: 28px;
+  font-family: system-ui;
+  text-align: left;
+}
+
+h3 {
+  color: wheat;
+  margin: 1%;
+  font-size: 30px;
+  font-family: system-ui;
+  text-align: left;
+}
+
+h4 {
+  color: wheat;
+  margin: 1%;
+  font-size: 30px;
+  font-family: system-ui;
+  text-align: left;
+}
+
+p {
+  color: wheat;
+  margin: 1%;
+  font-size: 25px;
+  font-family: -apple-system;
+  text-align: justify;
+}
+
+p2 {
+  color: wheat;
+  margin: 1%;
+  font-size: 15px;
+  font-family: -apple-system;
+  text-align: justify;
+}
+
+
+img {
+  margin: 0px;
+  border: 10px;
+  border-color: wheat
+}
+
+aside {text-align: left;}
